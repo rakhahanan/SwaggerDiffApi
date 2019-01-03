@@ -76,15 +76,11 @@ Profit! :tada:
 bash build.sh
 ```
 
-## Deploy
+### Deploy
 
 ```
 docker run -d visualbean/swagger-diff-api
 ```
-
-###
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
