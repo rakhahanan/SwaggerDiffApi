@@ -47,13 +47,19 @@ See the [How it works](https://github.com/zallek/swagger-diff#how-it-works) in t
 
 ### Installing
 
-Install the dependencies
+#### Clone the repo
+
+```
+git clone https://github.com/VisualBean/SwaggerDiffApi.git
+```
+
+#### Install the dependencies
 
 ```
 npm install
 ```
 
-Run the express server
+#### Run the app
 
 ```
 npm start
