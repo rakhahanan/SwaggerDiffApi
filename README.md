@@ -8,7 +8,7 @@ To be used for backwards compatibility checks or similar for your apis.
 The api is located on port 80 and has one endpoint
 `/diff`
 
-the diff endpoint takes a post request with a simple body
+the diff endpoint takes a POST request with a simple body
 
 ```
 {
