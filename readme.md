@@ -1,6 +1,7 @@
 # SwaggerDiff API
 
 A simple to use swaggerdiff api based on [SwaggerDiff](https://github.com/zallek/swagger-diff)
+To be used for backwards compatibility checks or similar for your apis.
 
 ## Getting Started
 
