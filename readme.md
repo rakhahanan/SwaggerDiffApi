@@ -23,8 +23,8 @@ where old, is the old previous spec and new is the.. you guessed it.. new spec.
 
 ```
 {
-  "old": "https://api.apis.guru/v2/specs/googleapis.com/drive/v2/swagger.json",
-  "new": "https://api.apis.guru/v2/specs/googleapis.com/drive/v3/swagger.json"
+  "old": "https://raw.githubusercontent.com/swagger-api/swagger-spec/master/examples/v2.0/json/petstore-expanded.json",
+  "new": "https://raw.githubusercontent.com/swagger-api/swagger-spec/master/examples/v2.0/json/petstore-minimal.json"
 }
 ```
 
