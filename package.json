@@ -1,0 +1,18 @@
+{
+  "name": "SwaggerDiffApi",
+  "version": "1.0.0",
+  "description": "A simple api to diff 2 swagger schemas",
+  "author": "Alex Steinhauer-Wichmann",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "swagger-diff": "^0.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

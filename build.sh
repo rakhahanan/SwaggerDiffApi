@@ -1,0 +1,1 @@
+docker build -t visualbean/swagger-diff-api .
