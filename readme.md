@@ -86,9 +86,9 @@ bash build.sh
 ### Deploy
 
 ```
-docker run -d visualbean/swagger-diff-api
+docker run -p 80:80 -d swagger-diff-api
 ```
-
+The api is now available at http://localhost/diff
 ## Built With
 
 - [Express](https://expressjs.com/) - Node Server

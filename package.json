@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "A simple api to diff 2 swagger schemas",
   "author": "Alex Steinhauer-Wichmann",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VisualBean/SwaggerDiffApi.git"
+  },
+  "license": "MIT",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"

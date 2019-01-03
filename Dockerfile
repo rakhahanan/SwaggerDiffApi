@@ -1,10 +1,10 @@
-FROM node:8.15-alpine
+FROM node:8.15-jessie
 
 WORKDIR /usr/src/app
 
 COPY package*.json ./
 
-RUN npm install --only=production
+RUN npm install
 
 COPY . .
 
