@@ -13,7 +13,7 @@ the diff endpoint takes a post request with a simple body
 ```
 {
 	"old": "",
-	"new": ""
+  "new": ""
 }
 ```
 
@@ -34,8 +34,8 @@ The api responds with an errors and warnings array
 
 ```
 {
-    "errors": [],
-    "warnings": []
+	"errors": [],
+	"warnings": []
 }
 ```
 
