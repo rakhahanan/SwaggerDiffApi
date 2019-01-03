@@ -30,12 +30,14 @@ where old, is the old previous spec and new is the.. you guessed it.. new spec.
 
 old and new can either be a uri to the swagger.json or the actual swagger.json.
 
-The api responds with an errors and warnings array
+The api response looks like the following
 
 ```
 {
   "errors": [],
-  "warnings": []
+  "warnings": [],
+  "infos": [],
+  "unmatchDiffs": []
 }
 ```
 
