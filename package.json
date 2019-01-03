@@ -1,5 +1,5 @@
 {
-  "name": "SwaggerDiffApi",
+  "name": "swagger-diff-api",
   "version": "1.0.0",
   "description": "A simple api to diff 2 swagger schemas",
   "author": "Alex Steinhauer-Wichmann",
