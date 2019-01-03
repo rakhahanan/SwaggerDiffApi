@@ -39,7 +39,7 @@ The api responds with an errors and warnings array
 ```
 
 containing the rules "broken".
-
+See the [How it works](https://github.com/zallek/swagger-diff#how-it-works) in the swagger-diff docs
 ### Prerequisites
 
 **NodeJS**
