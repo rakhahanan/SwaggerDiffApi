@@ -3,6 +3,8 @@
 A simple to use swaggerdiff api based on [SwaggerDiff](https://github.com/zallek/swagger-diff)
 To be used for backwards compatibility checks or similar for your apis.
 
+The Docker image is about 110MB
+
 ## Getting Started
 
 The api is located on port 80 and has one endpoint
